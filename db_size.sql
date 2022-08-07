@@ -1,4 +1,3 @@
-----==PROMPT DATABASE NAME-----------
 col "Database Size" format a20
 col "Free space" format a20
 col "Used space" format a20
